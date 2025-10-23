@@ -1,6 +1,6 @@
 # flutter_xgen
 
-> 🚀 **VSCode + Flutter 开发效率神器**
+> 🚀 **VSCode + Flutter 开发效率小工具**
 > 一站式集成资源管理、热重载、国际化、图标生成、重命名等核心能力，告别重复劳动，让开发更流畅高效。
 
 ---
@@ -149,7 +149,7 @@ AudioPlayer.play(Assets.soundsMeow);
 
 ### 4. 🌍 文本国际化
 
-兼容 **Flutter Intl** / **Intl Utils**，支持 ARB 与 CSV / Excel 多语言文案管理，简化国际化流程。
+兼容 **Flutter Intl** / **Intl Utils**，支持 ARB 多语言文案管理，简化国际化流程。
 
 📘 配置参考：
 🔗 [https://github.com/localizely/intl_utils#configure-package](https://github.com/localizely/intl_utils#configure-package)
